@@ -3,14 +3,13 @@
 
 ![image](https://user-images.githubusercontent.com/114447994/216866570-4b42d1f4-dd9d-4479-8b92-90cad6bd48d4.png)
 
-Digital engineer with a focus on multimedia and full stack web development, creative and passionate about the technological field, fully trained in ethical values, having the ability to work collaboratively, being able to solve problems versatilely.
+- 🌱 I’m currently learning **Mongodb, Backend**
 
 - 📫 How to reach me **ivandariomunos99@gmail.com**
-- 💻 I am located in Bogotá, Colombia
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/ivan-muñoz-andrade-64a768239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan muñoz a." height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ivan muñoz a." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan muñoz a." height="30" width="40" /></a>
 <a href="https://instagram.com/ivan_adde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivan_adde" height="30" width="40" /></a>
 </p>
 
