@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Muñoz Andrade</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-![logo2 0_negativo](https://github.com/ivanmunoz99/ivanmunoz99/assets/114447994/933dfb5d-97ba-4ab0-a6e7-74e2d808cd21)
+![Image](https://github.com/user-attachments/assets/06f4a583-3d96-4835-9026-557f1566ac5c)
 
 
 - 🌱 I’m currently learning **JavaScript and Mongodb, Backend**
